@@ -1,6 +1,7 @@
 # Blog Più Europa 4.0
 
-Questa è la repo ufficiale del nostro blog. 
+Questa è la repo ufficiale del nostro blog. La versione up-and-running più
+recente del blog è accessibile dalla tab *Environments*.
 Aggiornerò il README man mano che il codice si espande e il sito diventa più
 complesso nelle sue parti ed organizzato nel suo contenuto.
 
