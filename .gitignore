@@ -1,0 +1,8 @@
+# Cache di Jekyll (pussavia)
+.jekyll-cache
+
+# File metadata delle cartelle su MacOS
+**/.DS_Store
+
+# Swap file
+**/.*.swp
