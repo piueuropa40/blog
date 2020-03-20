@@ -32,3 +32,8 @@ Il tutto, così (da dentro la cartella `blog`, nel terminale):
 bundle install
 bundle exec jekyll serve
 ```
+
+## Informazioni sulla configurazione
+
+La configurazione generale del blog è specificata nel file `_config.yml`. 
+Il tema che ho scelto (per il momento) è [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes). Ulteriori informazioni circa le customizzazioni disponibili e il funzionamento del tema sono disponibili sulla repo del tema.
