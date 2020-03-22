@@ -1,8 +1,13 @@
-# Cache di Jekyll (pussavia)
-.jekyll-cache
+# Cache e file generati da Jekyll (pussavia)
+_site/
+_.sass-cache
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
 # File metadata delle cartelle su MacOS
 **/.DS_Store
 
 # Swap file
 **/.*.swp
+
