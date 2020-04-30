@@ -1,5 +1,6 @@
 ---
 layout: post
+author: mario_lavanga
 title: "Replica all’articolo - L’apocalisse del lavoro è già iniziata, anche se non te ne sei accorto -"
 date: "2019-11-22"
 img: "electric-4198293_1280.jpg"

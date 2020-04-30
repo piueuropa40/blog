@@ -1,5 +1,6 @@
 ---
 layout: post
+author: giovanni_sassano
 title: "Il Machine Learning nel mondo della politica"
 date: "2019-08-23"
 img: "68839539_485602078889405_840366761562865664_o.jpg"

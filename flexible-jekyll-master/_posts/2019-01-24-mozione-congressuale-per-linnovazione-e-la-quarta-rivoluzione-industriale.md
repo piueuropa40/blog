@@ -1,5 +1,6 @@
 ---
 layout: post
+author: giulia_pastorella
 title: "Mozione congressuale per l’innovazione e la quarta rivoluzione industriale"
 date: "2019-01-24"
 img: "image.png"

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: fabio_esposito
 title: "Abbiamo bisogno di un'educazione al metodo scientifico. Famiglia, scuola e lavoro 4.0"
 date: "2019-10-18"
 img: "scientific_method_trans1.jpg"

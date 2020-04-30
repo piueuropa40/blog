@@ -1,5 +1,6 @@
 ---
 layout: post
+author: giulia_pastorella
 title: "Privacy, libertà d’espressione e diritto di cronaca: dopo il Gdpr, quali equilibri"
 date: "2019-05-03"
 img: "gdpr_image.jpg"

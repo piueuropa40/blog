@@ -1,5 +1,6 @@
 ---
 layout: post
+author: giulia_pastorella
 title: "Chi ha paura dei dati? Un nuovo contratto sociale digitale basato sulla fiducia"
 date: "2019-02-07"
 img: "du-contrat.png"

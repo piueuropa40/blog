@@ -1,5 +1,6 @@
 ---
 layout: post
+author: monica_pradelli
 title: "Fondi europei in Italia: quale futuro?"
 date: "2019-08-30"
 img: "fondi-ue-bandiere.jpg"

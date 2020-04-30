@@ -1,5 +1,6 @@
 ---
 layout: post
+author: alessandro_beltrami
 title: "Agili e Snelli, la dieta necessaria alle PMI Italiane"
 date: "2019-07-13"
 ---

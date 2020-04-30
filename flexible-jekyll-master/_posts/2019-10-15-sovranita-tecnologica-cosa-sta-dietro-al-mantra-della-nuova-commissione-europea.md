@@ -1,5 +1,6 @@
 ---
 layout: post
+author: giulia_pastorella
 title: "Sovranità tecnologica: cosa sta dietro al mantra della nuova Commissione Europea?"
 date: "2019-10-15"
 img: "sovranitc3a0-tecnologica-art.giulia.jpeg"

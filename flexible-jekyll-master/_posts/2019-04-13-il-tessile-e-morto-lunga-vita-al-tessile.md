@@ -1,5 +1,6 @@
 ---
 layout: post
+author: giulia_pastorella
 title: "Il tessile è morto, lunga vita al tessile."
 date: "2019-04-13"
 ---

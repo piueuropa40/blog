@@ -1,5 +1,6 @@
 ---
 layout: post
+author: mario_lavanga
 title: "Ma che cosa è il Cloud Computing?"
 date: "2019-06-02"
 img: "network-2402637_960_720.jpg"

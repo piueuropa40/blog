@@ -1,5 +1,6 @@
 ---
 layout: post
+author: mario_lavanga
 title: "Mobilità Liquida"
 date: "2019-03-22"
 img: "photo-1537988489137-33d67a16f3ec-1.jpg"

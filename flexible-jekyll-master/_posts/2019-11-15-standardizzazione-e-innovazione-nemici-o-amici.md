@@ -1,5 +1,6 @@
 ---
 layout: post
+author: alessandro_beltrami
 title: "Standardizzazione e innovazione, nemici o amici?"
 date: "2019-11-15"
 ---

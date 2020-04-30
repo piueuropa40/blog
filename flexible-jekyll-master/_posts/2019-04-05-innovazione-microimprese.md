@@ -1,5 +1,6 @@
 ---
 layout: post
+author: alessandro_beltrami
 title: "L’innovazione e le Micro Imprese: un percorso riservato ai più coraggiosi"
 date: "2019-04-05"
 img: "immagine1.jpg"

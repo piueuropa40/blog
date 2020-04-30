@@ -1,5 +1,6 @@
 ---
 layout: post
+author: norman_larocca
 title: "Università e impresa nella quarta rivoluzione industriale"
 date: "2019-02-01"
 img: "51223827_374044730045141_2305199876515823616_o.jpg"

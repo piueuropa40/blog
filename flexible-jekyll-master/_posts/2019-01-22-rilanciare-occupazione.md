@@ -1,5 +1,6 @@
 ---
 layout: post
+author: stefano_tommei
 title: "Rilanciare l'occupazione partendo dalla forza lavoro: le competenze come base del lavoro di domani"
 date: "2019-01-22"
 img: "architect-architecture-body-33343.jpg"

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: norman_larocca
 title: "Sull'Assemblea e sul futuro"
 date: "2019-06-28"
 img: "my-life-through-a-lens-bq31l0jqaju-unsplash.jpg"

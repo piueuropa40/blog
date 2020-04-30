@@ -1,5 +1,6 @@
 ---
 layout: post
+author: mario_lavanga
 title: "L'elezioni cariche statutarie 18 Novembre 2019"
 date: "2019-11-19"
 img: "immagine_voto.png"

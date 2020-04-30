@@ -1,5 +1,6 @@
 ---
 layout: post
+author: giulia_pastorella
 title: "Verona non fa rima con... tecnologia?"
 date: "2019-03-29"
 img: "55576788_402234677226146_2189780241117872128_n.jpg"

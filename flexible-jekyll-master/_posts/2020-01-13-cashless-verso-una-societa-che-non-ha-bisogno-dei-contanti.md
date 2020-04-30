@@ -1,5 +1,6 @@
 ---
 layout: post
+author: mario_lavanga
 title: "Cashless: verso una società che non ha bisogno dei contanti"
 date: "2020-01-13"
 img: "cashless-3924095_1920.png"

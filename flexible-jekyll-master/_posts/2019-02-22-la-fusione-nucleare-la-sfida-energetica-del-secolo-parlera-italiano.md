@@ -1,5 +1,6 @@
 ---
 layout: post
+author: giovanni_sassano
 title: "La Fusione Nucleare, la sfida energetica del secolo, parlerà Italiano?"
 date: "2019-02-22"
 img: "gsass_1-2.jpg"

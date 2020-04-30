@@ -1,5 +1,6 @@
 ---
 layout: post
+author: antonella_succurro
 title: "Report votazioni per le cariche statutarie del gruppo +Europa 4.0"
 date: "2019-04-14"
 ---

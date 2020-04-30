@@ -1,5 +1,6 @@
 ---
 layout: post
+author: hamdy_sallam
 title: "DRONI – il futuro è arrivato!"
 date: "2019-06-14"
 ---

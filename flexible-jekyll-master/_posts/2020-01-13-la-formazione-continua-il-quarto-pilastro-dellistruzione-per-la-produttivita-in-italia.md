@@ -1,5 +1,6 @@
 ---
 layout: post
+author: mario_lavanga
 title: "La formazione continua: il quarto pilastro dell’istruzione per la produttività in Italia"
 date: "2020-01-13"
 img: "book-1822474_1920.jpg"

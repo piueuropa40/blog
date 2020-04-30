@@ -1,0 +1,7 @@
+sed -i 's/coverImage/img/g' 2019*
+sed -i ':begin;$!N;s/---\ntitle/---\nlayout: post\ntitle/;tbegin' 2019*
+mv images/* ../assets/img/
+
+
+# add authors
+sed -i ':begin;$!N;s/---\nlayout:/;---\nauthor: AUTHOR \nlayout:/;tbegin' LISTOFPOSTS
