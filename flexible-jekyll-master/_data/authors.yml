@@ -1,38 +1,31 @@
 # Author details.
 alessandro_beltrami:
-	name: Alessandro Beltrami
-	web:
+    name: Alessandro Beltrami
+    web: x
 antonella_succurro:
-        name: Antonella Succurro
-        web: https://twitter.com/a_succurro
+    name: Antonella Succurro
+    web: https://twitter.com/a_succurro
 fabio_esposito:
-	name: Fabio Esposito
-	web:
+    name: Fabio Esposito
+    web: x
 giulia_pastorella:
-	name: Giulia Pastorella
-	web:
+    name: Giulia Pastorella
+    web: x
 hamdy_sallam:
-	name: Hamdy Sallam
-	web:
+    name: Hamdy Sallam
+    web: x
 mario_lavanga:
-	name: Mario Lavanga
-	web:
+    name: Mario Lavanga
+    web: x
 norman_larocca:
-	name: Norman La Rocca
-	web:
+    name: Norman La Rocca
+    web: x
 monica_pradelli:
-	name: Monica Pradelli
-	web:
+    name: Monica Pradelli
+    web: x
 giovanni_sassano:
-	name: Giovanni Sassano
-	web:
+    name: Giovanni Sassano
+    web: x
 stefano_tommei:
-	name: Stefano Tommei
-	web:
-xyz:
-	name:
-	web:
-zyx:
-	name:
-	web:
-
+    name: Stefano Tommei
+    web: x
