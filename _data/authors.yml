@@ -1,0 +1,20 @@
+
+Ivan Procaccini:
+  name: "Ivan Procaccini"
+  avatar: "/assets/images/authors/ivan.jpg"
+  bio: >
+    Sviluppatore software e membro del corpo docente
+    nel Dipartimento di Informatica dell'Imperial College di Londra.
+  links:
+    - label: "  GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/procaconsul"
+    - label: "  Facebook"
+      icon: "fab fa-facebook"
+      url: "https://www.facebook.com/ivanprocaccini"
+
+Luca Geronimi:
+  name: "Luca Geronimi"
+  avatar: "/assets/images/authors/lgeronimi.jpg"
+  bio: >
+    Biografia qui.

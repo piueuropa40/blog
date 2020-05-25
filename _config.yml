@@ -20,9 +20,9 @@
 
 title: Più Europa 4.0
 name: "Più Europa 4.0"
-email: ivanprocaccini905@gmail.com
+email: mercatanti4.0@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Descrizione di ciò che facciamo qui
+  Blog del gruppo +Europa4.0, gruppo tematico di +Europa dedicato a Formazione, Innovazione e Ricerca.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://piueuropa40.github.io/"
 twitter_username: jekyllrb

@@ -3,17 +3,7 @@ layout: single
 title:  "Post di prova di Più Europa 4.0"
 date:   2020-03-20 08:33:06 +0000
 permalink: /test
-author:
-  name: "Ivan Procaccini"
-  avatar: "/assets/images/authors/ivan.jpg"
-  bio: "I am an **amazing** person."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/procaconsul"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/ivanprocaccini"
+author: Ivan Procaccini
 categories: jekyll update
 ---
 
