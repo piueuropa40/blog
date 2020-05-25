@@ -5,6 +5,7 @@ Ivan Procaccini:
   bio: >
     Sviluppatore software e membro del corpo docente
     nel Dipartimento di Informatica dell'Imperial College di Londra.
+    Coordinatore di +Europa Londra e UK (2020).
   links:
     - label: "  GitHub"
       icon: "fab fa-github"
@@ -16,5 +17,90 @@ Ivan Procaccini:
 Luca Geronimi:
   name: "Luca Geronimi"
   avatar: "/assets/images/authors/lgeronimi.jpg"
+  bio: >
+    Biografia qui.
+
+Stefano Tommei:
+  name: "Stefano Tommei"
+  avatar: "/assets/images/authors/stommei.jpg"
+  bio: >
+    Biografia qui.
+
+Giulia Pastorella:
+  name: "Giulia Pastorella"
+  avatar: "/assets/images/authors/gpastorella.jpg"
+  bio: >
+    Giulia si occupa di strategia di cybersecurity e data policy a livello globale per HP, dopo averne gestito gli affari istituzionali prima a Londra, con responsabilità per il nord Europa, e poi a Bruxelles con responsabilità Unione Europea inclusa anche l’Italia. Prima di entrare in HP, oltre alla carriera in consulenza di Public Affairs tra Londra e Bruxelles, e a stage in Think tanks e giornali, ha anche insegnato corsi di laurea e di master in Francia e Regno Unito, con focus su relazioni internazionali e scienze politiche. Ha un PhD in Affari Europei dalla London School of Economics, un Doppio Master in Affari Europei Sciences Po-LSE e una laurea in filosofia e letteratura francese a Oxford. Nel 2016 Forbes l’ha selezionata come una dei 30 più influenti under-30 in Europa nel campo di law & policy.
+  links:
+    - label: "  Personal Page"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.giuliapastorella.eu/chi-sono/"
+
+Norman La Rocca:
+  name: "Norman La Rocca"
+  avatar: "/assets/images/authors/nlarocca.jpg"
+  bio: >
+    Biografia qui.
+
+Giovanni Sassano:
+  name: "Giovanni Sassano"
+  avatar: "/assets/images/authors/gsassano.jpg"
+  bio: >
+    Biografia qui.
+
+Mario Lavanga:
+  name: "Mario Lavanga"
+  avatar: "/assets/images/authors/mlavanga.jpg"
+  bio: >
+    Figlio di imprenditrice dell’hinterland milanese e cardiologo berlingueriano della provincia avellinese, sono cresciuto col mito della politica come strumento di giustizia. Ho studiato Ingegneria Biomedica in quella palestra di vita chiamata Politecnico di Milano. Sono ormai da 3 anni e più residente nelle Fiandre Belghe a Lovanio, dove mi occupo di quantificazione di stress in bambini prematuri in collaborazione con l’ospedale universitario locale. L’avvento di un vento ultraconservatore, un disamore diffuso per la scienza e un odio per il diverso, l’eccentrico e la donna come vera imprenditrice della propria vita, un rifiuto della collaborazione scientifica e politica mi hanno spinto ad una vita attiva in politica.
+
+Hamdy Sallam:
+  name: "Hamdy Sallam"
+  avatar: "/assets/images/authors/hamdy.jpg"
+  bio: >
+    Biografia qui.
+
+Fabio Esposito:
+  name: "Fabio Esposito"
+  avatar: "/assets/images/authors/fesposito.jpg"
+  bio: >
+    Biografia qui.
+
+Antonella Succurro:
+  name: "Antonella Succurro"
+  avatar: "/assets/images/authors/asuccurro.jpg"
+  bio: >
+    Scienziata. Dopo una formazione in fisica delle particelle al CERN di Ginevra ora mi occupo di modelli matematici e computazionali di popolazioni cellulari nell'ambito di microbiologia e di immunologia. Svolgo anche un ruolo da manager scientifico in un nuovo centro per sequenziamento genomico dove seguo il processo di armonizzazione dei protocolli bioinformatici e facilito la collaborazione scientifica tramite strumenti del Web 3.0 (semantic web technologies). 
+  links:
+    - label: "  Personal Page"
+      icon: "fas fa-fw fa-link"
+      url: "https://asuccurro.github.io"
+
+Davide Dellarole:
+  name: "Davide Dellarole"
+  avatar: "/assets/images/authors/ddellarole.jpg"
+  bio: >
+    Coordinatore +Europa Biella (2019).
+
+Renato Goretta:
+  name: "Renato Goretta"
+  avatar: "/assets/images/authors/rgoretta.jpg"
+  bio: >
+    Biografia qui.
+
+Alessandro Beltrami:
+  name: "Alessandro Beltrami"
+  avatar: "/assets/images/authors/abeltrami.jpg"
+  bio: >
+   Già consulente per l'innovazione in ambito software e processi per piccole, medie e grandi Industrie nel settore della stampa, farmaceutica, ceramica e packaging, oggi vive a Barcellona dove lavora per HP Inc.
+   Esperto di Ricerca e Sviluppo per i sistemi di qualità dell'immagine, flussi di lavoro di stampa e ICC, è membro del comitato ISO/TC130 e Delegato Nazionale Spagnolo AEN CTN54. Ex Presidente di TAGA Italia e Delegato Nazionale UNI per le Arti Grafiche.
+  links:
+    - label: "	LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/alessandrobeltrami/"
+
+Monica Pradelli:
+  name: "Monica Pradelli"
+  avatar: "/assets/images/authors/mpradelli.jpg"
   bio: >
     Biografia qui.

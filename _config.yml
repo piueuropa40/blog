@@ -47,6 +47,20 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+search: true
+paginate: 5
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/PiuEuropa4_0"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/https://github.com/piueuropa40"  
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/PiuEuropa4.0"  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
